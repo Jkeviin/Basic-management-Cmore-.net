@@ -1,0 +1,19 @@
+realizar una aplicacion de 2 capas (Capa Logica de negocio / Capa de presentación) para un sistema de calificaciones, se ingresa la calificacion del estudiante, nombre y 4 notas.
+Calcular e imprimir su promedio. Sabiendo que cada nota va de cero a cinco.
+
+
+----------
+ notas
+----------
+- notas[] int
+- nombre String
+- resultado float
+- error String
+- mensaje String
+-------------
++ notas()
+- validacion() bool
+- validacion_bucle() bool 
++ calcular() bool
+
+
