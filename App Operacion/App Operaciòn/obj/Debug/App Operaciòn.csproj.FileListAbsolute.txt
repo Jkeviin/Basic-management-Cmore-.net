@@ -1,0 +1,14 @@
+C:\Users\adsi\source\repos\App Operaciòn\App Operaciòn\obj\Debug\App Operaciòn.csproj.AssemblyReference.cache
+C:\Users\adsi\source\repos\App Operaciòn\App Operaciòn\obj\Debug\App Operaciòn.csproj.SuggestedBindingRedirects.cache
+C:\Users\adsi\source\repos\App Operaciòn\App Operaciòn\obj\Debug\App_Operaciòn.Properties.Resources.resources
+C:\Users\adsi\source\repos\App Operaciòn\App Operaciòn\obj\Debug\App Operaciòn.csproj.GenerateResource.cache
+C:\Users\adsi\source\repos\App Operaciòn\App Operaciòn\obj\Debug\App Operaciòn.csproj.CoreCompileInputs.cache
+C:\Users\adsi\source\repos\App Operaciòn\App Operaciòn\bin\Debug\App Operaciòn.exe.config
+C:\Users\adsi\source\repos\App Operaciòn\App Operaciòn\bin\Debug\App Operaciòn.exe
+C:\Users\adsi\source\repos\App Operaciòn\App Operaciòn\bin\Debug\App Operaciòn.pdb
+C:\Users\adsi\source\repos\App Operaciòn\App Operaciòn\bin\Debug\Lib_Operacion.dll
+C:\Users\adsi\source\repos\App Operaciòn\App Operaciòn\bin\Debug\Lib_Operacion.pdb
+C:\Users\adsi\source\repos\App Operaciòn\App Operaciòn\obj\Debug\App_Operaciòn.Form1.resources
+C:\Users\adsi\source\repos\App Operaciòn\App Operaciòn\obj\Debug\App Operaciòn.csproj.CopyComplete
+C:\Users\adsi\source\repos\App Operaciòn\App Operaciòn\obj\Debug\App Operaciòn.exe
+C:\Users\adsi\source\repos\App Operaciòn\App Operaciòn\obj\Debug\App Operaciòn.pdb

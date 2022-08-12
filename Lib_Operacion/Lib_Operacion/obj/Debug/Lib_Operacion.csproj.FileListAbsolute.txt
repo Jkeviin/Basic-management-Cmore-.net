@@ -1,0 +1,6 @@
+C:\Users\adsi\source\repos\Lib_Operacion\Lib_Operacion\bin\Debug\Lib_Operacion.dll
+C:\Users\adsi\source\repos\Lib_Operacion\Lib_Operacion\bin\Debug\Lib_Operacion.pdb
+C:\Users\adsi\source\repos\Lib_Operacion\Lib_Operacion\obj\Debug\Lib_Operacion.csproj.AssemblyReference.cache
+C:\Users\adsi\source\repos\Lib_Operacion\Lib_Operacion\obj\Debug\Lib_Operacion.csproj.CoreCompileInputs.cache
+C:\Users\adsi\source\repos\Lib_Operacion\Lib_Operacion\obj\Debug\Lib_Operacion.dll
+C:\Users\adsi\source\repos\Lib_Operacion\Lib_Operacion\obj\Debug\Lib_Operacion.pdb
